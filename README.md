@@ -2,7 +2,7 @@
 
 Web application for bet advertising(Bet Masters).
 
-Technologies:
+# Technologies:
 
 Backend: Spring Boot, Spring Security, Thymeleaf
 
